@@ -1,0 +1,22 @@
+{
+  "name": "justtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olexburg/JustTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olexburg/JustTest/issues"
+  },
+  "homepage": "https://github.com/Olexburg/JustTest#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.1"
+  }
+}
