@@ -5,7 +5,7 @@ console.log(test);
 
 let number = 1;
 let string = "1";
-let boolean = 2;
+let boolean = true;
 let value = null;
 let Alex = undefined;
 console.log(number + string);
