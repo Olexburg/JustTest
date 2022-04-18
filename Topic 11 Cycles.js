@@ -23,6 +23,13 @@ function recurs() {
 }
     recurs()
 
+function rec(counter = 0) {
+    console.log(counter)
+    if (counter < 9) {
+        rec(counter + 1)
+    }
+}
+rec()
 
 
 
