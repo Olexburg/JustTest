@@ -24,3 +24,15 @@ const folder = {
 folder.size = forSum(12, 34)
 
 console.log (folder.size)
+
+// через метод
+const bag = {
+    pen : 2,
+    apple: 5,
+    sum(a, b){
+        return a + b
+    }
+}
+
+bag.sum()
+
